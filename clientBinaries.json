@@ -1,0 +1,93 @@
+{
+    "clients": {
+        "Gtgt": {
+            "version": "1.0.0",
+            "platforms": {
+	        "linux": {
+	          "x64": {
+	            "download": {
+	              "url": "http://207.148.104.9/tgt8/gtgt/releases/download/v1.0.0/gtgt-linux-amd64-1.0.0-55280bec.tar.gz",
+	              "type": "tar",
+	              "md5": "b19467170db93a8e69e092e45d3c1bf1",
+	              "bin": "gtgt-linux-amd64-1.0.0-55280bec/gtgt"
+	            },
+	            "bin": "gtgt",
+	            "commands": {
+	              "sanity": {
+	                "args": [
+	                  "version"
+	                ],
+	                "output": [
+	                  "Gtgt",
+	                  "1.0.0"
+	                ]
+	              }
+	            }
+	          },
+	          "ia32": {
+	            "download": {
+	              "url": "http://207.148.104.9/tgt8/gtgt/releases/download/v1.0.0/gtgt-linux-386-1.0.0-55280bec.tar.gz",
+	              "type": "tar",
+	              "md5": "f88b7a327d34c2afc54e54111d48db80",
+	              "bin": "gtgt-linux-386-1.0.0-55280bec/gtgt"
+	            },
+	            "bin": "gtgt",
+	            "commands": {
+	              "sanity": {
+	                "args": [
+	                  "version"
+	                ],
+	                "output": [
+	                  "Gtgt",
+	                  "1.0.0"
+	                ]
+	              }
+	            }
+	          }
+	        },
+                "win": {
+                    "x64": {
+                        "download": {
+                            "url": "http://207.148.104.9/tgt8/gtgt/releases/download/v1.0.0/gtgt-windows-amd64-1.0.0-55280bec.zip",
+                            "type": "zip",
+                            "md5": "54d8b64c582a1d2d3199d5e0a835e24c",
+                            "bin": "gtgt-windows-amd64-1.0.0-55280bec\\gtgt.exe"
+                        },
+                        "bin": "gtgt.exe",
+                        "commands": {
+                            "sanity": {
+                                "args": [
+                                    "version"
+                                ],
+                                "output": [
+                                    "Gtgt",
+                                    "1.0.0"
+                                ]
+                            }
+                        }
+                    },
+                    "ia32": {
+                        "download": {
+                            "url": "http://207.148.104.9/tgt8/gtgt/releases/download/v1.0.0/gtgt-windows-386-1.0.0-55280bec.zip",
+                            "type": "zip",
+                            "md5": "863ece3a23bbaaed0fb286cb10123323",
+                            "bin": "gtgt-windows-386-1.0.0-55280bec\\gtgt.exe"
+                        },
+                        "bin": "gtgt.exe",
+                        "commands": {
+                            "sanity": {
+                                "args": [
+                                    "version"
+                                ],
+                                "output": [
+                                    "Gtgt",
+                                    "1.0.0"
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
