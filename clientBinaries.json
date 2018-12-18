@@ -8,7 +8,7 @@
 	            "download": {
 	              "url": "http://207.148.104.9/tgt8/gtgt2/releases/download/v1.0.0/gtgt-linux-amd64-1.0.0-55280bec.tar.gz",
 	              "type": "tar",
-	              "md5": "b19467170db93a8e69e092e45d3c1bf1",
+	              "md5": "ad0d4eb75d1f9be6317ab42e1ed08b00",
 	              "bin": "gtgt-linux-amd64-1.0.0-55280bec/gtgt"
 	            },
 	            "bin": "gtgt",
@@ -28,7 +28,7 @@
 	            "download": {
 	              "url": "http://207.148.104.9/tgt8/gtgt2/releases/download/v1.0.0/gtgt-linux-386-1.0.0-55280bec.tar.gz",
 	              "type": "tar",
-	              "md5": "f88b7a327d34c2afc54e54111d48db80",
+	              "md5": "6d927f5882b224e8ee9f236acf53eae6",
 	              "bin": "gtgt-linux-386-1.0.0-55280bec/gtgt"
 	            },
 	            "bin": "gtgt",
@@ -50,7 +50,7 @@
                         "download": {
                             "url": "http://207.148.104.9/tgt8/gtgt2/releases/download/v1.0.0/gtgt-windows-amd64-1.0.0-55280bec.zip",
                             "type": "zip",
-                            "md5": "54d8b64c582a1d2d3199d5e0a835e24c",
+                            "md5": "7201cec6afcb4c7f01ebbfe46091423b",
                             "bin": "gtgt-windows-amd64-1.0.0-55280bec\\gtgt.exe"
                         },
                         "bin": "gtgt.exe",
@@ -70,7 +70,7 @@
                         "download": {
                             "url": "http://207.148.104.9/tgt8/gtgt2/releases/download/v1.0.0/gtgt-windows-386-1.0.0-55280bec.zip",
                             "type": "zip",
-                            "md5": "863ece3a23bbaaed0fb286cb10123323",
+                            "md5": "6c9b0ac99d94a107d91e0b33a2ca3f86",
                             "bin": "gtgt-windows-386-1.0.0-55280bec\\gtgt.exe"
                         },
                         "bin": "gtgt.exe",
